@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Dimuth-Wick/Dimuth-Wick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Dimuth-Wick/Dimuth-Wick/main/banner.gif" alt="Animated banner: Hello, I'm Dimuth. Building, learning, experimenting." width="100%" />
 
-Here are some ideas to get you started:
+### Hi, I'm Dimuth 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like turning ideas into things people can explore. Here you'll find my experiments and the projects I share as I build them.
+
+[**Explore my repositories ↗**](https://github.com/Dimuth-Wick?tab=repositories)
+
+</div>
+
+---
+
+### ✳ A little about me
+
+- I learn by making and trying new ideas.
+- I enjoy small, thoughtful details that make a project feel alive.
+- I'm building this space as my work grows.
+
+### 🔎 Around here
+
+Take a look at my [repositories](https://github.com/Dimuth-Wick?tab=repositories), or follow my GitHub profile to see what appears next.
+
+<div align="center">
+
+<sub>Thanks for visiting ✦</sub>
+
+</div>
