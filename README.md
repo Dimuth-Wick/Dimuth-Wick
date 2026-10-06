@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dimuth-Wick/Dimuth-Wick/main/banner.gif" alt="Animated banner: Hello, I'm Dimuth. Building, learning, experimenting." width="100%" />
+<img src="https://raw.githubusercontent.com/Dimuth-Wick/Dimuth-Wick/main/banner.svg" alt="Animated banner: Hello, I'm Dimuth. Building, learning, experimenting." width="100%" />
 
 ### Hi, I'm Dimuth 👋
 
